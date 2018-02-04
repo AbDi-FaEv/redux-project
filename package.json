@@ -11,11 +11,20 @@
     },
     "devDependencies": {
         "axios": "^0.17",
+        "babel-preset-react": "^6.23.0",
         "bootstrap-sass": "^3.3.7",
         "cross-env": "^5.1",
         "jquery": "^3.2",
         "laravel-mix": "^1.0",
         "lodash": "^4.17.4",
-        "vue": "^2.5.7"
+        "react": "^15.4.2",
+        "react-dom": "^15.4.2",
+        "redux-devtools": "^3.4.1"
+    },
+    "dependencies": {
+        "react-redux": "^5.0.6",
+        "redux": "^3.7.2",
+        "redux-logger": "^3.0.6",
+        "redux-thunk": "^2.2.0"
     }
 }
